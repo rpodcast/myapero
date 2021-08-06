@@ -1,0 +1,1 @@
+Use this directory for temp scripts and files. The contents will not be version controlled!
