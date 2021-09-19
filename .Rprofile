@@ -33,3 +33,7 @@ if (Sys.getenv("TERM_PROGRAM") == "vscode") {
       .vsc.browser(httpgd::hgd_url(), viewer = "Beside")
     })
 }
+
+# fix Hugo version
+options(blogdown.hugo.version = "0.87.0")
+options(vsc.rstudioapi = TRUE)
